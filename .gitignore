@@ -1,0 +1,10 @@
+# Ignore output dir:
+.settings
+out
+target
+
+# Ignore IntelliJ files:
+.idea
+*.iml
+*.ipr
+*.iws
